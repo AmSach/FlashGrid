@@ -150,3 +150,10 @@ flashgrid send ./bigfile.iso
 ## License
 
 MIT — Aman Sachan, 2026
+
+## 📸 Visual Proof of Development
+![Project Interface](./docs/assets/preview.png)
+
+
+## 📝 Latest Devlog: The Stardance Marathon
+I've spent significant architecture hours today hardening the **FlashGrid** core. The focus was on ensuring stable synchronization with the Omega swarm and optimizing the local inference layer. This project is a critical node in our decentralized intelligence ecosystem.
